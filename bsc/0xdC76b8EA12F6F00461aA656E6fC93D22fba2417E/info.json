@@ -1,0 +1,11 @@
+{
+    "name": "AMK",
+    "website": "https://anemoi.finance/",
+    "description": "AMK holders receive dividends from Anemoi's profits based on ownership percentage, ensuring transparent distribution.",
+    "explorer": "https://bscscan.com/token/0xdC76b8EA12F6F00461aA656E6fC93D22fba2417E",
+    "type": "BEP20",
+    "symbol": "AMK",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xdC76b8EA12F6F00461aA656E6fC93D22fba2417E"
+}
